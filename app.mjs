@@ -4,6 +4,8 @@ import greeting from './greeting.mjs'
 export default attributes => h(
   'main', attributes,
 
+  h('img', {width: 300, height: 200, src: 'https://picsum.photos/300/200?grayscale'}),
+
   greeting({whom: 'you'}),
   h('p', {}, 'Welcome. This is a short paragraph; others are not.'),
 
