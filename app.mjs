@@ -1,10 +1,18 @@
 import h from './h.mjs'
+import image from './image.mjs';
 import greeting from './greeting.mjs'
 
 export default attributes => h(
   'main', attributes,
 
-  h('img', {width: 300, height: 200, src: 'https://picsum.photos/300/200?grayscale'}),
+  h(
+    'a',
+    {href: 'https://picsum.photos/'},
+    image({
+      src: 'https://picsum.photos/300/200?grayscale',
+      title: 'images via https://picsum.photos/'
+    })
+  ),
 
   greeting({whom: 'you'}),
   h('p', {}, 'Welcome. This is a short paragraph; others are not.'),
