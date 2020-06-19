@@ -1,9 +1,7 @@
 # chemical-example
 
-This is an example of a client-side webapp, using only native
-[ESModules](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Modules).
-
-No build step.
+This is an example of a client-side webapp, using Solid and
+`hyper-dom-expressions`.
 
 ## How to use
 

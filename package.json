@@ -1,13 +1,14 @@
 {
   "name": "@hugojosefson/chemical-example",
   "version": "1.0.0",
-  "description": "Example esmodule-only webapp, without any build-step.",
+  "description": "Example Solid webapp, using hyper-dom-expressions.",
   "scripts": {
     "start": "serve"
   },
   "keywords": [
-    "esmodule",
-    "esm",
+    "solid",
+    "solidjs",
+    "hyper-dom-expressions",
     "example"
   ],
   "repository": "hugojosefson/chemical-example",
