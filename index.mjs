@@ -1,5 +1,4 @@
-import { renderDom, mount } from './chemical.mjs'
-import app from './app.mjs'
+import { render } from 'https://unpkg.com/solid-js@0.18.9/dist/dom/index.js?module'
+import App from './app.mjs'
 
-const element = window.document.getElementById('app')
-mount(element, renderDom(app()))
+render(() => App(), document.body)
