@@ -1,7 +1,3 @@
-import h from './lib/solid-js-h.mjs'
+import html from './lib/solid-js-html.mjs'
 
-export default ({whom, type = 'h1'}) => h(
-  type,
-  {},
-  `Hello, ${whom}!`
-)
+export default ({whom}) => html`<h1>Hello, ${() => whom}!</h1>`
