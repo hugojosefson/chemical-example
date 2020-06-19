@@ -4,15 +4,12 @@ import h from 'solid-js/h'
 import Image from './image.jsx'
 import Greeting from './greeting.jsx'
 
-const Asd = () => (<h1>HELLO</h1>)
-
 export default () => (
   <main>
     <a href={'https://picsum.photos/'}>
       <Image src={'https://picsum.photos/300/200?grayscale'}
              title={'images via https://picsum.photos/'}/>
     </a>
-    <Asd></Asd>
     <h1><Greeting whom={'you'}/></h1>
     <p>Welcome. This is a short paragraph; others are not.</p>
     <h2><Greeting whom={'corporate ipsum'}/></h2>

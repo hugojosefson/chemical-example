@@ -4,6 +4,6 @@ import { render } from 'solid-js/dom'
 import App from './app.jsx'
 
 render(
-  () => <App id={'app'} />,
+  () => <App />,
   document.getElementById('app')
 );
