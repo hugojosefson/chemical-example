@@ -2832,10 +2832,10 @@ https-browserify@^1.0.0:
   resolved "https://registry.yarnpkg.com/https-browserify/-/https-browserify-1.0.0.tgz#ec06c10e0a34c0f2faf199f7fd7fc78fffd03c73"
   integrity sha1-7AbBDgo0wPL68Zn3/X/Hj//QPHM=
 
-hyper-dom-expressions@^0.18.10:
-  version "0.18.10"
-  resolved "https://registry.yarnpkg.com/hyper-dom-expressions/-/hyper-dom-expressions-0.18.10.tgz#e151e2296bc051c40ff015e893537fa1f8d614fb"
-  integrity sha512-Aj67Djzbe+rjHtidkqiblmI5bLJVu9f+vB8FCnL+2n2bghoMMun3dMm2uH6mEJ/a0eg7KoN17v5lNJDnLYv5Xw==
+hyper-dom-expressions@0.19.1:
+  version "0.19.1"
+  resolved "https://registry.yarnpkg.com/hyper-dom-expressions/-/hyper-dom-expressions-0.19.1.tgz#376c7d3c2b6620f34d826a50e4ab9a38aa6fdfd2"
+  integrity sha512-oLvHf2gvCsK2e4WLEKqlyjj2+HrBjpPrsK/8zLBxsBtTyVaB2or+Q7qDyiAaq4PeVLNT2erNU2x0OmhWp0Dqqw==
 
 iconv-lite@0.4.24:
   version "0.4.24"

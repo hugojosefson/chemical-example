@@ -5,8 +5,7 @@
   "scripts": {
     "start": "serve dist",
     "dev": "parcel index.html",
-    "build": "parcel build index.html",
-    "postinstall": "replace 'if \\(typeof next === \"object\" && !Array.isArray\\(next\\)' 'if (typeof next === \"object\" && next != null && !Array.isArray(next)' --recursive node_modules/hyper-dom-expressions"
+    "build": "parcel build index.html"
   },
   "keywords": [
     "solid",
@@ -20,7 +19,7 @@
     "serve": "^11.3.2"
   },
   "devDependencies": {
-    "hyper-dom-expressions": "^0.18.10",
+    "hyper-dom-expressions": "0.19.1",
     "parcel": "^1.12.4",
     "replace": "^1.2.0",
     "solid-js": "^0.18.7"
