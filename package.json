@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Example esmodule-only webapp, without any build-step.",
   "scripts": {
-    "start": "npx serve"
+    "start": "serve"
   },
   "keywords": [
     "esmodule",
@@ -12,5 +12,8 @@
   ],
   "repository": "hugojosefson/chemical-example",
   "author": "Hugo Josefson <hugo@josefson.org> (https://www.hugojosefson.com/)",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "serve": "^11.3.2"
+  }
 }
