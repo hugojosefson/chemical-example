@@ -1,4 +1,4 @@
-import h from 'https://unpkg.com/solid-js@0.18.9/dist/dom/h.js?module'
+import {h} from './lib/solid-js.mjs'
 
 export default ({whom, type = 'h1'}) => h(
   type,

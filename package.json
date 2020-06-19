@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Example Solid webapp, using hyper-dom-expressions.",
   "scripts": {
-    "start": "serve"
+    "start": "serve src"
   },
   "keywords": [
     "solid",

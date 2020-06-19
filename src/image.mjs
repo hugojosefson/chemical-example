@@ -1,3 +1,3 @@
-import h from 'https://unpkg.com/solid-js@0.18.9/dist/dom/h.js?module'
+import {h} from './lib/solid-js.mjs'
 
 export default ({src, width = 300, height = 200, title}) => h('img', {src, width, height, title})
