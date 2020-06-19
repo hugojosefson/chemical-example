@@ -1,7 +1,12 @@
 # chemical-example
 
-This is an example of a client-side webapp, using Solid and
-`hyper-dom-expressions`.
+This is an example of a client-side webapp, using only native
+[ESModules](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Modules).
+
+No build step. All source files run directly in the browser.
+
+This branch uses [Solid](https://github.com/ryansolid/solid) and
+[Hyper DOM Expressions](https://github.com/ryansolid/dom-expressions/tree/master/packages/hyper-dom-expressions).
 
 ## How to use
 
