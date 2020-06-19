@@ -1,4 +1,4 @@
-import {h} from './lib/solid-js.mjs'
+import h from './lib/solid-js-h.mjs'
 import Image from './image.mjs'
 import Greeting from './greeting.mjs'
 
