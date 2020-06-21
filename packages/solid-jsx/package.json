@@ -1,0 +1,27 @@
+{
+  "name": "@hugojosefson/chemical-example-solid-jsx",
+  "version": "1.0.0",
+  "description": "Example Solid webapp.",
+  "scripts": {
+    "start": "serve dist",
+    "dev": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "keywords": [
+    "solid",
+    "solidjs",
+    "example"
+  ],
+  "repository": "hugojosefson/chemical-example",
+  "author": "Hugo Josefson <hugo@josefson.org> (https://www.hugojosefson.com/)",
+  "license": "MIT",
+  "dependencies": {
+    "serve": "^11.3.2"
+  },
+  "devDependencies": {
+    "hyper-dom-expressions": "0.19.1",
+    "parcel": "^1.12.4",
+    "replace": "^1.2.0",
+    "solid-js": "^0.18.7"
+  }
+}
