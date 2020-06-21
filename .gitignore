@@ -1,7 +1,7 @@
-/node_modules/
-/.idea/
-/*.log
+node_modules/
+.idea/
+*.log
 .*.swp
-/.cache/
-/dist/
+.cache/
+dist/
 

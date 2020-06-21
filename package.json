@@ -1,19 +1,6 @@
 {
-  "name": "@hugojosefson/chemical-example",
-  "version": "1.0.0",
-  "description": "Example esmodule-only webapp, without any build-step.",
-  "scripts": {
-    "start": "serve"
-  },
-  "keywords": [
-    "esmodule",
-    "esm",
-    "example"
-  ],
-  "repository": "hugojosefson/chemical-example",
-  "author": "Hugo Josefson <hugo@josefson.org> (https://www.hugojosefson.com/)",
-  "license": "MIT",
-  "dependencies": {
-    "serve": "^11.3.2"
-  }
+  "private": true,
+  "workspaces": [
+    "packages/*"
+  ]
 }
