@@ -9,7 +9,11 @@ This project has no external dependencies.
 
 ## How to use
 
-Serve it via HTTP or HTTPS, and browse to it with a web browser.
+- Live in browser:
+  [packages/no-dependencies/index.html](https://raw.githack.com/hugojosefson/chemical-example/master/packages/no-dependencies/index.html)
+
+Or, serve it yourself via HTTP or HTTPS, and browse to it with a web
+browser.
 
 For example:
 

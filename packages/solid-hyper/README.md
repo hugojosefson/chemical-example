@@ -10,7 +10,10 @@ This project uses [Solid](https://github.com/ryansolid/solid) and
 
 ## How to use
 
-Serve it via HTTP or HTTPS, and browse to it with a web browser.
+- Live in browser:
+  [packages/solid-hyper/src/index.html](https://raw.githack.com/hugojosefson/chemical-example/master/packages/solid-hyper/src/index.html)
+
+Or, serve it yourself via HTTP or HTTPS, and browse to it with a web browser.
 
 For example:
 
