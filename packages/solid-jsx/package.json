@@ -1,9 +1,9 @@
 {
   "name": "@hugojosefson/chemical-example-solid-jsx",
   "version": "1.0.0",
-  "description": "Example Solid webapp.",
+  "description": "Example Solid webapp with JSX, and a build step.",
   "scripts": {
-    "start": "serve dist",
+    "start": "PORT=${PORT:-3002} serve dist",
     "dev": "parcel index.html",
     "build": "parcel build index.html"
   },

@@ -1,9 +1,9 @@
 {
   "name": "@hugojosefson/chemical-example-no-dependencies",
   "version": "1.0.0",
-  "description": "Example esmodule-only webapp, without any build-step.",
+  "description": "Example esmodule-only webapp, without any build-step nor dependencies.",
   "scripts": {
-    "start": "serve"
+    "start": "PORT=${PORT:-3000} serve"
   },
   "keywords": [
     "esmodule",

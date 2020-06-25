@@ -1,11 +1,11 @@
-# chemical-example
+# chemical-example / solid-hyper
 
 This is an example of a client-side webapp, using only native
 [ESModules](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Modules).
 
 No build step. All source files run directly in the browser.
 
-This branch uses [Solid](https://github.com/ryansolid/solid) and
+This project uses [Solid](https://github.com/ryansolid/solid) and
 [Hyper DOM Expressions](https://github.com/ryansolid/dom-expressions/tree/master/packages/hyper-dom-expressions).
 
 ## How to use
@@ -15,7 +15,7 @@ Serve it via HTTP or HTTPS, and browse to it with a web browser.
 For example:
 
 ```bash
-PORT=3000 npx serve
+PORT=3001 npx serve
 ```
 
-Then open [http://localhost:3000/](http://localhost:3000/) in a browser.
+Then open [http://localhost:3001/](http://localhost:3001/) in a browser.

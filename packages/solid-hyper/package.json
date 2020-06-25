@@ -1,9 +1,9 @@
 {
   "name": "@hugojosefson/chemical-example-solid-hyper",
   "version": "1.0.0",
-  "description": "Example Solid webapp, using hyper-dom-expressions.",
+  "description": "Example Solid webapp, using hyper-dom-expressions. No build step.",
   "scripts": {
-    "start": "serve src"
+    "start": "PORT=${PORT:-3001} serve src"
   },
   "keywords": [
     "solid",

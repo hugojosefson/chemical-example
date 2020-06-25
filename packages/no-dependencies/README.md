@@ -1,9 +1,11 @@
-# chemical-example
+# chemical-example / no-dependencies
 
 This is an example of a client-side webapp, using only native
 [ESModules](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Modules).
 
-No build step.
+No build step. All source files run directly in the browser.
+
+This project has no external dependencies.
 
 ## How to use
 
