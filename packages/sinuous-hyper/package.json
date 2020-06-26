@@ -1,0 +1,21 @@
+{
+  "name": "@hugojosefson/chemical-example-sinuous-hyper",
+  "version": "1.0.0",
+  "description": "Example Sinuous webapp. No build step.",
+  "scripts": {
+    "start": "PORT=${PORT:-3004} serve src"
+  },
+  "keywords": [
+    "sinuous",
+    "esmodule",
+    "esm",
+    "example"
+  ],
+  "repository": "hugojosefson/chemical-example",
+  "author": "Hugo Josefson <hugo@josefson.org> (https://www.hugojosefson.com/)",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "serve": "^11.3.2"
+  }
+}
