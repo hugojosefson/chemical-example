@@ -1,14 +1,12 @@
 {
-  "name": "@hugojosefson/chemical-example-solid-hyper",
+  "name": "@hugojosefson/chemical-example-sinuous",
   "version": "1.0.0",
-  "description": "Example Solid webapp, using hyper-dom-expressions. No build step.",
+  "description": "Example Sinuous webapp. No build step.",
   "scripts": {
-    "start": "PORT=${PORT:-3001} serve src"
+    "start": "PORT=${PORT:-3003} serve src"
   },
   "keywords": [
-    "solid",
-    "solidjs",
-    "hyper-dom-expressions",
+    "sinuous",
     "esmodule",
     "esm",
     "example"
