@@ -2866,10 +2866,10 @@ https-browserify@^1.0.0:
   resolved "https://registry.yarnpkg.com/https-browserify/-/https-browserify-1.0.0.tgz#ec06c10e0a34c0f2faf199f7fd7fc78fffd03c73"
   integrity sha1-7AbBDgo0wPL68Zn3/X/Hj//QPHM=
 
-hyper-dom-expressions@0.19.1:
-  version "0.19.1"
-  resolved "https://registry.yarnpkg.com/hyper-dom-expressions/-/hyper-dom-expressions-0.19.1.tgz#376c7d3c2b6620f34d826a50e4ab9a38aa6fdfd2"
-  integrity sha512-oLvHf2gvCsK2e4WLEKqlyjj2+HrBjpPrsK/8zLBxsBtTyVaB2or+Q7qDyiAaq4PeVLNT2erNU2x0OmhWp0Dqqw==
+hyper-dom-expressions@0.20.6:
+  version "0.20.6"
+  resolved "https://registry.yarnpkg.com/hyper-dom-expressions/-/hyper-dom-expressions-0.20.6.tgz#53b5b7259439e8c9216cd0d1087ece84712f6527"
+  integrity sha512-Sfibh/M440Enqql1t5PMB5vpb4yn2iMT+va0N5JcGWyewst26Pl/uwLQEiD/omNreIz/X/Opl5U+pULcE5p+uQ==
 
 iconv-lite@0.4.24:
   version "0.4.24"
@@ -4960,10 +4960,10 @@ snapdragon@^0.8.1:
     source-map-resolve "^0.5.0"
     use "^3.1.0"
 
-solid-js@^0.18.7:
-  version "0.18.14"
-  resolved "https://registry.yarnpkg.com/solid-js/-/solid-js-0.18.14.tgz#2d86c0581a425abac14da4d32e6710ebfa9d8c14"
-  integrity sha512-XAmsf4WP16aQ0RJMNk50Xi0OD0QQK/OAA0aFnT2/7OsLzdjJVohrTf58fE7B7Zhk0CiEdCtkktX7MaxOvfY3RQ==
+solid-js@^0.19.3:
+  version "0.19.3"
+  resolved "https://registry.yarnpkg.com/solid-js/-/solid-js-0.19.3.tgz#3424b666b7202df3a414aff7cd785235d7296717"
+  integrity sha512-8gvpx1Dr6Yg9DsGcuH1o66dWcKKOr3FO0GYg7iD/XE1O2yK3T+hZRjyIE+XYAO+LyJRMGWDI+Fy7YcDP76mcFA==
 
 source-map-resolve@^0.5.0:
   version "0.5.3"

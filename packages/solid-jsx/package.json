@@ -19,9 +19,9 @@
     "serve": "^11.3.2"
   },
   "devDependencies": {
-    "hyper-dom-expressions": "0.19.1",
+    "hyper-dom-expressions": "0.20.6",
     "parcel": "^1.12.4",
     "replace": "^1.2.0",
-    "solid-js": "^0.18.7"
+    "solid-js": "^0.19.3"
   }
 }
